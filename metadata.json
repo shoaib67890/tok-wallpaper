@@ -1,0 +1,5 @@
+{
+  "name": "AI Voiceover Studio",
+  "description": "A fully functional text-to-voice (TTS) system that converts scripts into natural, human-like speech using AI. Users can select different voices, adjust the style, and download the generated audio.",
+  "requestFramePermissions": []
+}
